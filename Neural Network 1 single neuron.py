@@ -1,6 +1,5 @@
 
 # single neuron with single output
- 
 inputs = [1.0,2.0,3.0,2.5]
 weights = [0.5,1.0,1.5,0.2]
 bias = 2
