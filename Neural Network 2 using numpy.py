@@ -1,8 +1,6 @@
 import numpy as np
 
 
-
-
 # one neuron  - 4 inputs
 # inputs  = np.array([1,2,3,2.5])
 #-----------------------------------------------
@@ -11,7 +9,6 @@ import numpy as np
 # output = np.dot(inputs, weights)+biase
 # print(output)
 # ----------------------------------------------
-
 
 
 #3 neurons - 4 input 
