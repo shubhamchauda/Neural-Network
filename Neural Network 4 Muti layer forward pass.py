@@ -1,5 +1,9 @@
 import numpy as np 
 
+# Batch, Layer and objects
+# input size size (4,3)
+# 3 batch size  
+
 
 X  = np.array([[1.0,2.0,3.0,2.5],
                 [2.0,5.0,-1.0,2.0],
